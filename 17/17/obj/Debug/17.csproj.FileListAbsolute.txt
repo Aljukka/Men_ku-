@@ -1,0 +1,18 @@
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\17\17\bin\Debug\17.exe.config
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\17\17\bin\Debug\17.exe
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\17\17\bin\Debug\17.pdb
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\17\17\obj\Debug\17.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\17\17\obj\Debug\_17.Form1.resources
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\17\17\obj\Debug\_17.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\17\17\obj\Debug\17.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\17\17\obj\Debug\17.exe
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\17\17\obj\Debug\17.pdb
+C:\Users\Пользователь\Desktop\Учёба\ОАИП\17\17\bin\Debug\17.exe.config
+C:\Users\Пользователь\Desktop\Учёба\ОАИП\17\17\bin\Debug\17.exe
+C:\Users\Пользователь\Desktop\Учёба\ОАИП\17\17\bin\Debug\17.pdb
+C:\Users\Пользователь\Desktop\Учёба\ОАИП\17\17\obj\Debug\17.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учёба\ОАИП\17\17\obj\Debug\_17.Form1.resources
+C:\Users\Пользователь\Desktop\Учёба\ОАИП\17\17\obj\Debug\_17.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Учёба\ОАИП\17\17\obj\Debug\17.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Учёба\ОАИП\17\17\obj\Debug\17.exe
+C:\Users\Пользователь\Desktop\Учёба\ОАИП\17\17\obj\Debug\17.pdb
