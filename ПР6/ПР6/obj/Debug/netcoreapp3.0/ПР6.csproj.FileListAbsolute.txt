@@ -1,0 +1,11 @@
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\bin\Debug\netcoreapp3.0\ПР6.exe
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\bin\Debug\netcoreapp3.0\ПР6.deps.json
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\bin\Debug\netcoreapp3.0\ПР6.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\bin\Debug\netcoreapp3.0\ПР6.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\bin\Debug\netcoreapp3.0\ПР6.dll
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\bin\Debug\netcoreapp3.0\ПР6.pdb
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\obj\Debug\netcoreapp3.0\ПР6.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\obj\Debug\netcoreapp3.0\ПР6.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\obj\Debug\netcoreapp3.0\ПР6.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\obj\Debug\netcoreapp3.0\ПР6.dll
+C:\Users\Пользователь\Desktop\Хрень по учёбе\ОАИП\ПР6\ПР6\obj\Debug\netcoreapp3.0\ПР6.pdb
